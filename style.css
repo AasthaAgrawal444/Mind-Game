@@ -1,0 +1,48 @@
+html {
+    height: 100%;
+    background: radial-gradient(circle, #fff, #ccc);
+}
+
+#container{
+    height: 70vh;
+    width: 80vw;
+    background-color: #9dd2ea;
+    margin: 10vh auto;
+    padding: 5vh;
+    box-shadow: 0px 4px 0px 0px steelblue;
+}
+
+#score {
+    color: black;
+    background-color: greenyellow;
+    margin-left: 80%;
+    width: 13vw;
+    height: 6.5vh;
+    border-radius: 10%;
+}
+
+#scorevalue {
+    padding: 50px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#numbers {
+    height: 220px;
+    background-color: blueviolet;
+}
+
+#bar {
+    height: 110px;
+    background-color: coral;
+}
+
+#options {
+    background-color: cadetblue;
+}
+
+.option1 {
+    height: 20px;
+    width: 2px;
+}
+
